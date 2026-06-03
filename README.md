@@ -2,13 +2,14 @@
 
 ### I'm always learning something new and exciting!
 
-- 💻 Senior Backend Engineer (TypeScript, Go)
+- 💻 Senior Backend Engineer (TypeScript, Go, Python)
 - 📦 Middle Solutions Architect (**Fintech**, **EventSourcing**, EBA, High Load, DDD, MSA, Event Bus, protobuf)
-- 🏛️ Some Technical Lead / CTO expirience in startups
+- 🏛️ Technical Lead / CTO expirience
 - 📱 Middle Flutter Developer (Stacked, BLOC, flutter_hooks, dartz)
-- 🌠 Junior Frontend Developer (Svelte.js, Vue.js)
+- 🌠 Junior Frontend Developer (Svelte.js, Vue.js, React)
 - 🪛 Junior Electronics Engineer (STM32 programming in C/C++, PCB deisgn, SMPS design, Linux integration)
-
+- 🖲️ CNC Enthusiast
+- 
 <br />
 
 
